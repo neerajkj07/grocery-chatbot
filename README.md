@@ -7,8 +7,11 @@ A Spring Boot + Spring AI powered chatbot POC for a grocery application.
 - ✅ Chat API using Spring Boot
 - ✅ OpenAI LLM integration (Spring AI)
 - ✅ Product storage in DynamoDB
+- ✅ Offer and Discounts in CSV
+- ✅ Recipe Suggestions in S3
+- ✅ LLM API calls
 - ✅ RAG support for knowledge-based answers (vector store)
-- ✅ MCP tools for stock check, order placement, delivery tracking
+- ✅ MCP tools to talk to DynamoDB, CSV and S3
 - ✅ Docker & Docker Compose setup for local development
 
 
