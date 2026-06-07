@@ -1,7 +1,7 @@
-package com.mindera.grocery.chatbot.service.product;
+package com.grocery.chatbot.service.product;
 
-import com.mindera.grocery.chatbot.entity.Product;
-import com.mindera.grocery.chatbot.repository.ProductRepository;
+import com.grocery.chatbot.entity.Product;
+import com.grocery.chatbot.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
